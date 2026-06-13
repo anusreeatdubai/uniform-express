@@ -9,7 +9,7 @@
   const BOT_NAME = 'UniBot';
   const TYPING_DELAY_MIN = 700;
   const TYPING_DELAY_MAX = 1400;
-  const GROQ_API_KEY = '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'; // Replace with your actual gsk_... key
+  const GROQ_API_KEY = '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'; // Replace with your actual gsk_... key
 
   // ---- Knowledge Base ----
   const KB = {
